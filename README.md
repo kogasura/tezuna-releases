@@ -5,6 +5,14 @@
 このリポジトリは Mobile Term の**配布専用**です（ソースコードは非公開）。
 最新のバイナリは [Releases](https://github.com/kogasura/mobile-term-releases/releases) からダウンロードしてください。
 
+- 利用条件: [EULA](EULA.md) / [プライバシーポリシー](PRIVACY.md)（テレメトリなし・通信は LAN 内のみ）
+- バグ報告・要望: [Issues](https://github.com/kogasura/mobile-term-releases/issues)
+
+## 前提条件
+
+- PC に [Claude Code CLI](https://docs.claude.com/ja/docs/claude-code/setup) がインストール・ログイン済みであること
+- PC とスマホが同一 Wi-Fi (LAN) に接続されていること
+
 ## インストール
 
 ### Windows (PC 側・必須)
